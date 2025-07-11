@@ -1,4 +1,4 @@
-name: Sync main with latest upstream W1 branch
+name: Sync main with latest upstream IT branch
 
 on:
   schedule:
